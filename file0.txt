@@ -1,1 +1,3 @@
 This is to demonstrate merge conflicts
+This is the file0.txt created originally in master branch
+
